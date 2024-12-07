@@ -10,7 +10,7 @@
   </p>
 </div>
 
-All IP (Code, ..) of PureLinux is owned by the [DAO][pure-linux-dao] and the [DAO][pure-linux-dao] is owned by the [contributors][repo-contributors] of the [DAO][pure-linux-dao].
+All IP (Code, ..) of PureLinux is owned by the DAO and the DAO is owned by the [contributors][repo-contributors] of the DAO.
 
 <blockquote>
  <span>
@@ -32,7 +32,7 @@ We try to give **best possible credit to every contributor** who's bringing this
 </blockquote>
 
 At PureLinux, we try hard to build a decentralized autonomous organization to redefine how open-source **contributions** are **rewarded** and **governed**. We find this very important for the project to grow perfectly.
-For every **contribution**, each contributor receives **tokens** for the [DAO][pure-linux-dao], increasing their **financial stake** and/or **influence** in **polls**, including those shaping PureLinux [Product Roadmaps](#Roadmap) and potential future developments.
+For every **contribution**, each contributor receives **tokens** for the DAO, increasing their **financial stake** and/or **influence** in **polls**, including those shaping PureLinux [Product Roadmaps](#Roadmap) and potential future developments.
 
 <blockquote>
  <span>
@@ -50,7 +50,7 @@ Our mission is to create a **community-driven Linux® ecosystem** that ensures f
 
 ### Monetarization
 
-Somehow the [DAO][pure-linux-dao] needs to finance itself (the world is how it is..). Because of that we plan to implement the following monetarization strategies to pay the development of the open-source version of TIO:
+Somehow the DAO needs to finance itself (the world is how it is..). Because of that we plan to implement the following monetarization strategies to pay the development of the open-source version of TIO:
 
 - [Dashboard][tinyodash] Pro (Local/Server) [one-time payment]
 - Managed services: [TIO Cloud][tinyocloud] Pro (based on [TIO Runtime][tinyort] Pro) [monthly payment]
@@ -63,8 +63,6 @@ PureLinux | Delivering to the open-source community what matters most.
 Linux® is the registered trademark of Linus Torvalds in the U.S. and other countries.
 
 [repo-contributors]: https://github.com/pure-linux/tinyo/graphs/contributors
-[pure-linux-discord]: https://discord.gg/ERKBk6ArnQ
-[pure-linux-dao]: https://github.com/pure-linux/DAO
 [tinyort]: https://github.com/pure-linux/tinyort
 [tinyodash]: https://github.com/pure-linux/tinyodash
 [tinyocloud]: https://github.com/pure-linux/tinyocloud
