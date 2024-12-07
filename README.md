@@ -32,7 +32,7 @@ We try to give **best possible credit to every contributor** who's bringing this
 </blockquote>
 
 At PureLinux, we try hard to build a decentralized autonomous organization to redefine how open-source **contributions** are **rewarded** and **governed**. We find this very important for the project to grow perfectly.
-For every **contribution**, each contributor receives **tokens** for the DAO, increasing their **financial stake** and/or **influence** in **polls**, including those shaping PureLinux [Product Roadmaps](#Roadmap) and potential future developments.
+For every **contribution**, each contributor receives **tokens** for the DAO, increasing their **financial stake** and/or **influence** in **polls**, including those shaping PureLinux [Product Roadmaps][tinyo-roadmap] and potential future developments.
 
 <blockquote>
  <span>
@@ -63,6 +63,7 @@ PureLinux | Delivering to the open-source community what matters most.
 Linux® is the registered trademark of Linus Torvalds in the U.S. and other countries.
 
 [repo-contributors]: https://github.com/pure-linux/tinyo/graphs/contributors
+[tinyo-roadmap]: https://github.com/pure-linux/tinyo#roadmap
 [tinyort]: https://github.com/pure-linux/tinyort
 [tinyodash]: https://github.com/pure-linux/tinyodash
 [tinyocloud]: https://github.com/pure-linux/tinyocloud
